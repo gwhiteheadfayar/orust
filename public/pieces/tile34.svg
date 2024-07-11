@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="300" height="300" version="1.1" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0 -217.62)">
+  <rect transform="rotate(-90)" x="-517.62" y="3.2726e-15" width="300" height="300" rx="15" ry="15" fill="#aaa"/>
+  <g fill="none">
+   <g stroke="#000" stroke-width="15">
+    <path transform="rotate(-90)" d="m-517.62 100a100 200 0 0 1 100 200" stroke-linejoin="bevel"/>
+    <path d="m300 317.63h-2.7765s-23.291 0-45.959 5.352-43.499 15.77-43.499 15.77l-115.53 57.756s-20.831 10.418-43.499 15.77c-22.668 5.3523-45.959 5.352-45.959 5.352h-2.7766"/>
+    <path transform="rotate(-90)" d="m-217.62 100a100 100 0 0 1-70.711-29.289 100 100 0 0 1-29.289-70.711" stroke-linejoin="bevel"/>
+   </g>
+   <path d="m200 517.63v-300" stroke="#aaa" stroke-width="25"/>
+   <path d="m200 517.63v-300" stroke="#000" stroke-width="15"/>
+  </g>
+ </g>
+</svg>

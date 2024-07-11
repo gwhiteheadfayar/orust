@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="300" height="300" version="1.1" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0 -217.62)">
+  <rect y="217.62" width="300" height="300" rx="15" ry="15" fill="#aaa"/>
+  <g fill="none">
+   <path d="m0 417.62h300" stroke="#000" stroke-width="15"/>
+   <path d="m200 467.62v-100" stroke="#aaa" stroke-width="25"/>
+   <path d="m200 217.62v300" stroke="#000" stroke-width="15"/>
+   <path d="m150 317.62h100" stroke="#aaa" stroke-width="25"/>
+   <path d="m0 317.62h300" stroke="#000" stroke-width="15"/>
+   <path d="m100 267.62v100" stroke="#aaa" stroke-width="25"/>
+   <path d="m100 217.62v300" stroke="#000" stroke-width="15"/>
+   <path d="m50 417.62h100" stroke="#aaa" stroke-width="25"/>
+   <path d="m30 417.62h140" stroke="#000" stroke-width="15"/>
+  </g>
+ </g>
+</svg>
